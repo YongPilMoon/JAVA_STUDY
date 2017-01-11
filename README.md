@@ -1,1 +1,1 @@
-### [SCALA, PLAY FRAMEWORK 공부 정리] (https://github.com/YongPilMoon/STUDY/wiki)부
+### [SCALA, PLAY FRAMEWORK 공부 정리] (https://github.com/YongPilMoon/STUDY/wiki)
